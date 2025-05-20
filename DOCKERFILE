@@ -1,5 +1,5 @@
 # old: ubuntu:22.04
-FROM mcr.microsoft.com/dotnet/sdk:9.0.202-noble
+FROM mcr.microsoft.com/dotnet/sdk:9.0
 ENV TARGETARCH="linux-x64"
 # Also can be "linux-arm", "linux-arm64".
 
